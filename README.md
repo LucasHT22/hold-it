@@ -9,3 +9,6 @@ Works with python, using lib that I found on internet
 
 ## Challenges
 Orpheus Pico - Hard to flash firmware, BOOT works and suddenly don't
+Problems with Orpheus Pico:
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/68eeb3cdc0189d501f52d8489cfb45ac2349630d_vid_20250302_115124172.mp4
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/b00e117176d1d594e761564318748f860f452996_vid_20250302_102314636.mp4
